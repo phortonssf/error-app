@@ -20,7 +20,6 @@ import { InMemoryDataService }  from './in-memory-data.service';
 @NgModule({
   declarations: [
     AppComponent,
-    HeroesComponent,
     HeroDetailComponent,
     DashboardComponent,
     HeroSearchComponent

@@ -9,8 +9,8 @@ import 'rxjs/add/operator/catch';
 import 'rxjs/add/operator/debounceTime';
 import 'rxjs/add/operator/distinctUntilChanged';
 
-import { HeroSearchService } from './hero-search.service';
-import { Hero } from './hero';
+import { HeroSearchService } from '../../providers/hero-search.service';
+import { Hero } from '../../assets/classes/hero/hero';
 
 @Component({
     selector: 'hero-search',

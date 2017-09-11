@@ -34,7 +34,7 @@ import { InMemoryDataService }  from './in-memory-data.service';
     AppRoutingModule
   ],
   providers: [
-    HeroService
+    
   ],
   bootstrap: [AppComponent]
 })

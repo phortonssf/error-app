@@ -22,8 +22,7 @@ import { InMemoryDataService }  from './in-memory-data.service';
     AppComponent,
     HeroDetailComponent,
     DashboardComponent,
-    HeroSearchComponent,
-    HeroesComponent
+    HeroSearchComponent
   ],
   imports: [
     BrowserModule,
